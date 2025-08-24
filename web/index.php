@@ -12,6 +12,7 @@
 include 'includes/landing_header.php'; 
 include 'includes/landing_top_banner.php';
 include 'includes/landing_diplom_psycholog.php';
+include 'includes/landing_help.php';
 include 'includes/landing_footer.php'; 
 ?>
 

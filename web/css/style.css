@@ -158,3 +158,30 @@ body {
   color: #444;
 }
 /* Diplom Psycholog */
+
+/* Help */
+.help_block {
+  padding: 64px 20px;
+  text-align: center;
+  color: #111;
+  font-family: 'Barlow Condensed', sans-serif;
+  background: #eee;
+}
+.help_block_inner {
+  max-width: 950px;
+  margin: 0 auto;
+}
+.help_title {
+  font-size: clamp(28px, 6vw, 56px);
+  font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 20px;
+}
+.help_text {
+  font-size: clamp(16px, 2.2vw, 22px);
+  line-height: 1.7;
+  color: #333;
+  max-width: 950px;
+  margin: 0 auto;
+}
+/* Help */
